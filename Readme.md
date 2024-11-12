@@ -7,9 +7,6 @@ This project focuses on detecting and classifying objects such as tanks and infr
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Labeling Data](#labeling-data)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
 - [Future Work](#future-work)
 
@@ -30,3 +27,15 @@ The main objectives of this project are:
    ```bash
    git clone https://github.com/ultralytics/yolov5.git
    cd yolov5
+
+## Labelling Data
+- Used [Makesense.ai](https://www.makesense.ai/) and labelmg to label the data
+
+## Acknowledgement
+- **YOLOv5**: Ultralytics' YOLOv5 (https://github.com/ultralytics/yolov5)
+- **xView Dataset**: High-resolution satellite images (https://xviewdataset.org)
+
+## Future Work
+- **Enhanced Model Accuracy**: Explore additional data or model architectures to improve detection accuracy.
+- **Real-Time Edge Deployment**: Deploy the model to edge devices for live monitoring.
+- **Additional Classes**: Expand the model to detect more classes of objects relevant to border monitoring.
