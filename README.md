@@ -1,0 +1,2 @@
+#Satellite Image Analysis for Border Monitoring
+This project focuses on training a custom YOLOv5 object detection model to identify specific objects in satellite imagery near border areas, including tanks and infrastructure. This model can be used for real-time monitoring of areas near the border, detecting vehicles, infrastructure changes, and human movement patterns, aiding in defense and surveillance efforts.
