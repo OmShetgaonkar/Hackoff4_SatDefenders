@@ -1,6 +1,3 @@
-# Python code to generate a README.md file for your project
-
-content = """
 # Satellite Image Analysis for Border Monitoring
 
 This project focuses on detecting and classifying objects such as tanks and infrastructure in satellite images to support real-time monitoring and surveillance near border areas. The custom object detection model uses YOLOv5, trained on the **xView** dataset, to identify items of interest, helping enhance border security by tracking movements, constructions, and infrastructure.
